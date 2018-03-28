@@ -180,8 +180,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </p>
 
 <hr/>
+<h2>Post-workshop survey</h2>
 
-<p><em>Post-workshop survey</em></p>
 <p><a href="https://nettskjema.uio.no/answer/93393.html"> Please fill in this survey after the workshop </a></p>
 
 <!---
