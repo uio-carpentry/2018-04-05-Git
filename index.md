@@ -134,7 +134,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
   Modify the block below if there are any barriers to accessibility or
   special instructions.
-{% endcomment %}
 <p id="accessibility">
   <strong>Accessibility:</strong> We are committed to making this workshop
   accessible to everybody.
@@ -144,6 +143,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   <li>The room is wheelchair / scooter accessible.</li>
   <li>Accessible restrooms are available.</li>
 </ul>
+{% endcomment %}
+
 <p>
   Materials will be provided in advance of the workshop and
   large-print handouts are available if needed by notifying the
@@ -179,15 +180,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </p>
 
 <hr/>
-
-{% comment %}
-  SCHEDULE
-
-  Show the workshop's schedule.  Edit the items and times in the table
-  to match your plans.  You may also want to change 'Day 1' and 'Day
-  2' to be actual dates or days of the week.
-{% endcomment %}
-<h2 id="schedule">Schedule</h2>
 
 <p><em>Post-workshop survey</em></p>
 <p><a href="https://nettskjema.uio.no/answer/93393.html"> Please fill in this survey after the workshop </a></p>
